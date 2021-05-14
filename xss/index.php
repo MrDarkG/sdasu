@@ -12,7 +12,7 @@ require_once("../sqli/auth/checkauth.php");
 		<meta name="author" content="">
 		<link rel="icon" href="../../../../favicon.ico">
 
-		<title>Navbar Template for Bootstrap</title>
+		<title>Xss vuln</title>
 
 		<!-- Bootstrap core CSS -->
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
